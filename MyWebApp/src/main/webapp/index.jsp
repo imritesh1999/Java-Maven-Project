@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> We are migrating this WebApp !!!!!!!!</h2>
-  
+	<h2> This is Java project with use of maven plugin !!!!!!!!</h2>
+	<h3> Deployed By Mphasis Ltd.</h3>
 </body>
 </html>
